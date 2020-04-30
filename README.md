@@ -1,2 +1,2 @@
 # Chatbot-with-TensorFlow
-A generalizable chatbot built on tensorflow using nltk & numpy modules to which the intents can be developed based on the specific use.
+This is a simple AI chatbot build using Tensorflow Platform. I have created this with a specific use which is to Navigate people in my college campus. When the user types name of a place (library,office etc.) in college it give the details of block and room no.But this can be customizable for other uses also. Project is done using python in anaconda environment and installing required modules. Inorder to customize this chatbot we have to edit the intents.json file.
